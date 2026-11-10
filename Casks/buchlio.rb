@@ -2,7 +2,7 @@ cask "buchlio" do
   version "1.2.0"
   sha256 "9c8a50edbb101eadc006084e5ec124b909128579f5b0437d5d993b585f88f762"
 
-  url "https://buchlio.de/updates/Buchlio-macOS.dmg"
+  url "https://buchlio.de/updates/Buchlio-#{version}-macOS.dmg"
   name "Buchlio"
   desc "Receipts, income, expenses and invoices, organised locally"
   homepage "https://buchlio.de/"
